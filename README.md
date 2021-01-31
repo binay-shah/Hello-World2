@@ -1,3 +1,3 @@
 My first android - Hello World
 ![fgdfgsdf](./screenshot.png)
-![gif](./screen_gif.png)
+![gif](./screen_gif.gif)
